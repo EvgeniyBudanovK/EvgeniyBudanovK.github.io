@@ -1,0 +1,128 @@
+Uri: https://feedapp.me/
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\index.htm
+Content Type: text/html
+
+Uri: https://feedapp.me/normalize.css
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\normalize.css
+Content Type: text/css
+
+Uri: https://feedapp.me/style.css
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\style.css
+Content Type: text/css
+
+Uri: https://rm-content.s3.amazonaws.com/5e417ad47c5cb605147ce00f/upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_144.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\5e417ad47c5cb605147ce00f\upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_144.png
+Content Type: image/png
+
+Uri: https://rm-content.s3.amazonaws.com/5e417ad47c5cb605147ce00f/upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_114.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\5e417ad47c5cb605147ce00f\upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_114.png
+Content Type: image/png
+
+Uri: https://rm-content.s3.amazonaws.com/5e417ad47c5cb605147ce00f/upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_72.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\5e417ad47c5cb605147ce00f\upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_72.png
+Content Type: image/png
+
+Uri: https://rm-content.s3.amazonaws.com/5e417ad47c5cb605147ce00f/upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_57.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\5e417ad47c5cb605147ce00f\upload-1ed5c18a-782e-4131-9fc0-61bb4f1343ce_57.png
+Content Type: image/png
+
+Uri: https://drive.google.com/file/d/1N66NP_u1Ssz0EiEAQtwfS5Inw3ws6Lfn/view?usp=sharing
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\file\d\1N66NP_u1Ssz0EiEAQtwfS5Inw3ws6Lfn\view.html
+Content Type: text/html
+
+Uri: https://drive.google.com/file/d/1ekqeQMNDzTCpUBxjIezMtEjh1Oo1Q1Ne/view?usp=sharing
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\file\d\1ekqeQMNDzTCpUBxjIezMtEjh1Oo1Q1Ne\view.html
+Content Type: text/html
+
+Uri: https://feedapp.me/img/logo.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\logo.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/qr.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\qr.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/arr_down.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\arr_down.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/phone-1.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-1.png
+Content Type: image/png
+
+Uri: https://feedapp.me/video/1_left.mp4
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\video\1_left.mp4
+Content Type: video/mp4
+
+Uri: https://feedapp.me/img/phone-2.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-2.png
+Content Type: image/png
+
+Uri: https://feedapp.me/video/1_right.mp4
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\video\1_right.mp4
+Content Type: video/mp4
+
+Uri: https://feedapp.me/img/phone-3-1.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-3-1.png
+Content Type: image/png
+
+Uri: https://feedapp.me/video/Cover.mp4
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\video\Cover.mp4
+Content Type: video/mp4
+
+Uri: https://feedapp.me/img/blink-3.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\blink-3.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/phone-2-4-new.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-2-4-new.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/phone-2-3-new.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-2-3-new.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/phone-2-2-new.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-2-2-new.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/phone-2-1-new.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\phone-2-1-new.png
+Content Type: image/png
+
+Uri: https://feedapp.me/video/2.mp4
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\video\2.mp4
+Content Type: video/mp4
+
+Uri: https://feedapp.me/script.js
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\script.js
+Content Type: application/x-javascript
+
+Uri: https://feedapp.me/img/bg.jpg
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://feedapp.me/img/section-1.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\section-1.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/section-2-new.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\section-2-new.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/section-3-new-2.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\section-3-new-2.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/section-3.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\section-3.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/footer-bg.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\footer-bg.png
+Content Type: image/png
+
+Uri: https://feedapp.me/img/qr_border.png
+File Name: M:\EVGENIY BUDANKIN\Feed\Новая папка (6)\feedapp.me\img\qr_border.png
+Content Type: image/png
+
