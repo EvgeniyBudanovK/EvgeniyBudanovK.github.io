@@ -7,9 +7,10 @@
 
 body, html {
     font-family: "Montserrat", "PT Sans", Helvetica, sans-serif;
-    background-color: #050036;
-    background: url(img/bg.jpg) center top no-repeat;
+    background: url(img/bg2.svg) center top no-repeat;
     background-size: cover;
+    background-blend-mode:screen;
+    background-color: #050036;
     /* overflow-x: hidden;
     position: relative; */
 }
