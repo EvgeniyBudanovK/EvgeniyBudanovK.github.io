@@ -6,13 +6,38 @@
 */
 
 body, html {
+    position: relative;
+    
+    z-index: 100;
     font-family: "Montserrat", "PT Sans", Helvetica, sans-serif;
-    background: url(img/bg2.svg) center top no-repeat;
+    /* background: url(img/bg2.svg) center top no-repeat;
     background-size: cover;
-    background-blend-mode:screen;
+    background-blend-mode:screen;*/
     background-color: #050036;
     /* overflow-x: hidden;
     position: relative; */
+}
+.content {
+    position: relative;
+    z-index: 100;
+}
+.background {
+    background: url(img/bg.jpg) center top no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: -100;
+}
+
+.blur {
+    height: 100%;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.01); 
+    backdrop-filter: blur(20px); 
+    
 }
 
 .main-container {
